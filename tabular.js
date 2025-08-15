@@ -11,3 +11,4 @@ accountEmail = "ronaldo@gmail.com"
 console.table([accountpassword, accountEmail, accountCity, accountId, accountState]);
 //prefer not to use var because of function scope issues and block scope is preferred
 //accountId = "876" // This line is commented out to avoid changing the constant value
+console.log(accountId);
