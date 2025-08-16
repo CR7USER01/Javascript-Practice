@@ -1,8 +1,10 @@
-const accountId = 144553
-let accountEmail = "ronaldo@gmail.com"
-var accountpassword = "2121212"
-accountCity = "Madrid"
+const score = 100
+const scoreValue = 100.3
 
-accountCity = "Barcelona" 
-accountpassword = "2626266"
-accountEmail = "ronaldo@gmail.com"
+const isLoggedIn = false
+const outsideTemp = null
+let userEmail;
+
+const id = Symbol("123")
+const anotherId = Symbol("123")
+console.log = (id === anotherId)
