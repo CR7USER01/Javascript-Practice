@@ -1,4 +1,4 @@
-function calculateCartPrice(num1){
-    return num1
-}
-console.log(calculateCartPrice(100,200))
+
+
+if (true){
+    let a = 10
