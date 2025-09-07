@@ -42,9 +42,9 @@ if (index === 5) {
     console.log(`value of i is ${index}`);
 
 
-    //const element = array[index];
     
 }
 
 
 }
+
