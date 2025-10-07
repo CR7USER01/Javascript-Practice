@@ -24,6 +24,6 @@ console.log(`price is ${this.score}`);
 const chai1 = new createUser("chai", 25)
 const tea = createUser("tea", 250)
 
-chai1.printMe() 
+ chai1.printMe() 
 
 
